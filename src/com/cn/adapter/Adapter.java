@@ -1,5 +1,9 @@
 package com.cn.adapter;
-
+/**
+ * 
+ * @author tianchengju
+ *ÀàÊÊÅäÆ÷Ä£Ê½
+ */
 public class Adapter extends Adaptee implements Target{
 	@Override
 	public void getReceptacle2() {
